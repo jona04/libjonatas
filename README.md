@@ -1,8 +1,8 @@
 #libjonatas
 
-Contrução lib construída com ajuda do curso [Python PRO](http://www.python.pro.br)
+Lib construída com ajuda do curso [Python PRO](http://www.python.pro.br)
 
-Pacote publicada no pypi.rg
+[![Build Status](https://travis-ci.com/jona04/libjonatas.svg?branch=master)](https://travis-ci.com/jona04/libjonatas)
 
 Para instalar:
 
