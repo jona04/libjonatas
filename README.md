@@ -3,6 +3,8 @@
 Lib construída com ajuda do curso [Python PRO](http://www.python.pro.br)
 
 [![Build Status](https://travis-ci.com/jona04/libjonatas.svg?branch=master)](https://travis-ci.com/jona04/libjonatas)
+[![Updates](https://pyup.io/repos/github/jona04/libpythonpro/shield.svg)](https://pyup.io/repos/github/jona04/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/jona04/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/jona04/libpythonpro/)
 
 Para instalar:
 
