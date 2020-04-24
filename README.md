@@ -20,3 +20,14 @@ Para conferir qualidade do código
 ```cosole
 flake8
 ```
+
+Endereço lib no Pypi [libjonatas](https://pypi.org/project/libjonatas/)
+
+Travis CI para entrega continua e automatização de processos
+
+Atualização de dependecias com Pyup
+
+Pytest Cov - Cobertura de testes
+
+Desenvolvimento TDD e baby tests
+
